@@ -1,2 +1,7 @@
 ls
+<<<<<<< HEAD
 hello
+=======
+
+hel
+>>>>>>> feature
